@@ -23,10 +23,11 @@ A simple iOS weather application built with **Swift**. The app fetches real-time
 ## Screenshot
 
 
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dc5dbb5d-1d62-4349-b664-2b5ebb8e8161" width="300" alt="Weather App Screenshot">
-    <img src="https://github.com/user-attachments/assets/dc5dbb5d-1d62-4349-b664-2b5ebb8e8161" width="300" alt="Weather App Screenshot">
-  <img src="https://github.com/user-attachments/assets/dc5dbb5d-1d62-4349-b664-2b5ebb8e8161" width="300" alt="Weather App Screenshot">
+  <img src="https://github.com/user-attachments/assets/ab5edb40-bb61-469c-a074-1e3c4c8b2b1c" width="300" alt="Weather App Screenshot">
+    <img src="https://github.com/user-attachments/assets/157473d9-d3d0-46e7-9ff3-b5f419e680ba" width="300" alt="Weather App Screenshot">
+  <img src="https://github.com/user-attachments/assets/d1853bda-259a-4833-957f-4ec92effaaae" width="300" alt="Weather App Screenshot">
 
 </p>
 
