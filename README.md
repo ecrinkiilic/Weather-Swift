@@ -22,10 +22,9 @@ A simple iOS weather application built with **Swift**. The app fetches real-time
 
 ## Screenshot
 
-<img width="738" height="1600" alt="WhatsApp Image 2026-06-29 at 19 09 47" src="https://github.com/user-attachments/assets/dc5dbb5d-1d62-4349-b664-2b5ebb8e8161" />
 
 <p align="center">
-  <img src="screenshots/home.png" width="300" alt="Weather App Screenshot">
+  <img src="https://github.com/user-attachments/assets/dc5dbb5d-1d62-4349-b664-2b5ebb8e8161" width="300" alt="Weather App Screenshot">
 </p>
 
 ## Project Structure
